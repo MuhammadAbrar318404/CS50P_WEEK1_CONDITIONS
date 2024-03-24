@@ -2,7 +2,7 @@
 <br>
 Welcome to the Week 1 projects repository for CS50! In this repository, you'll find Python scripts that showcase various programming concepts covered during Week 1 of the CS50 course.
 <br>
-## Project 1: Greetings Analysis
+##Project 1: Greetings Analysis
 <br>
 Description: This script analyzes user greetings and assigns a monetary value based on specific conditions.
 <br>
